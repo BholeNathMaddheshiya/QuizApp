@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748309767077",
+    "project_id": "combnultrasoftapp",
+    "storage_bucket": "combnultrasoftapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748309767077:android:1b96e63bc2fec1e2dbfe4c",
+        "android_client_info": {
+          "package_name": "com.bnultrasoft.app.bnultrasoft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DSTCBzat3QRK5AaWZxs5o6IzMtQwbmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
