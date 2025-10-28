@@ -85,4 +85,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'combnultrasoftapp.firebasestorage.app',
     measurementId: 'G-90B5XTMGRC',
   );
+
 }
